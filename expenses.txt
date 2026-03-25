@@ -1,0 +1,4 @@
+2005-02-2,Travel,3000,bus
+2002-02-2,Food,100,Lunch
+2003-03-1,Travel,50,Bus
+2001-06-2,Shopping,500,Dress
